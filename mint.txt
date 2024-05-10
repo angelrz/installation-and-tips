@@ -1,1 +1,0 @@
-sudo apt update && sudo apt purge libreoffice* hexchat hypnotix redshift onboard hexchat celluloid transmission gnome-calendar
