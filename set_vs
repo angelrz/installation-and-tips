@@ -1,0 +1,22 @@
+{
+  "window.zoomLevel": 0.3,
+  "editor.fontSize": 14,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.minimap.enabled": false,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.scrollbar.vertical": "auto",
+  "editor.overviewRulerBorder": false,
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Palenight (Mild Contrast)",
+  "workbench.startupEditor": "none",
+  "editor.cursorBlinking": "expand",
+  "window.commandCenter": false,
+  "markdown.preview.breaks": true,
+  "editor.linkedEditing": true,
+  "editor.language.colorizedBracketPairs": [],
+  "breadcrumbs.enabled": false,
+  "terminal.integrated.cursorBlinking": true,
+  "editor.glyphMargin": false,
+  "workbench.activityBar.iconClickBehavior": "focus",
+  "zenMode.hideActivityBar": true
+}
