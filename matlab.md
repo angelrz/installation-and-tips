@@ -14,7 +14,7 @@ unzip matlab_R2024a_Linux.zip
 
 ## Abrir el instalador
 
-Después de descomprimir, abrir la carpeta que aparecio en la terminal y ejecutar el siguiente comando
+Después de descomprimir, abrir la carpeta que apareció en la terminal y ejecutar el siguiente comando
 
 ```bash
 sudo ./install
@@ -22,11 +22,12 @@ sudo ./install
 
 ## Pasos siguientes
 
-Agregar cuenta, selec software, finalizar, puedes ver ver el [Video](https://www.youtube.com/watch?v=KCDG_SCDcaY) del minuto 1:00 al 2:00
+Agregar cuenta, selec software, finalizar, puedes ver el [Video](https://www.youtube.com/watch?v=KCDG_SCDcaY) del minuto 1:00 al 2:00
 
 Seleccionar la ruta por defecto: **/usr/local/MATLAB/R2023b**
 
->[!WARINING] Recuerda la ruta, es indispensable para tus variables de entorno
+> [!WARINING]
+> Recuerda la ruta, es indispensable para tus variables de entorno
 
 ## Ejecutar MATLAB
 
@@ -73,4 +74,5 @@ Icon=/usr/local/MATLAB/R2023b/resources/coreui/matlab/icono-matlab.png
 Terminal=false
 ```
 
->[!TIP] Tmambién puedes visitar este [Blog](https://linux.how2shout.com/how-to-install-matlab-in-ubuntu-22-04/)
+> [!TIP]
+> También puedes visitar este [Blog](https://linux.how2shout.com/how-to-install-matlab-in-ubuntu-22-04/)
