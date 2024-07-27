@@ -1,6 +1,14 @@
-# INSTALAR QUARTUS LITE 23.1
+# Instalar QUARTUS LITE en Linux Debian y derivados
+
+## Descargar instalador
+
+Desde [Intel](https://www.intel.com/content/www/us/en/software-kit/795187/intel-quartus-prime-lite-edition-design-software-version-23-1-for-linux.html) seleccionar la versión de Quartus
+
+> [!IMPORTANT] Para este caso será la versión 23.1
 
 ## Ejecutar el instalador
+
+Abrir la carpeta de Descargas en terminal y ejecutar el instalador
 
 ```bash
 sudo chmod +x *.run
@@ -82,7 +90,7 @@ SUBSYSTEM=="usb", ENV{DEVTYPE}=="usb_device", ATTRS{idVendor}=="09fb", ATTRS{idP
 SUBSYSTEM=="usb", ENV{DEVTYPE}=="usb_device", ATTRS{idVendor}=="09fb", ATTRS{idProduct}=="6810", MODE="0666", SYMLINK+="usbblaster2/%k"
 ```
   
-O bien, ocupar el archivo de este [repositorio](https://github.com/GoComputing/QuartusInstallerUbuntu/tree/master/files) de Github.
+>[!TIP] O bien, ocupar el archivo de este [repositorio](https://github.com/GoComputing/QuartusInstallerUbuntu/tree/master/files) de Github.
 
 ## Crear ejecutable (icono)
 
@@ -103,4 +111,4 @@ Icon=/home/angel/intelFPGA_lite/23.1std/quartus/adm/quartusii.png
 Terminal=false
 ```
 
-Reiniciar PC sí no aparece el ejecutable
+>[!NOTE] Reiniciar PC sí no aparece el ejecutable
