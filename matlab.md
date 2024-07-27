@@ -26,7 +26,7 @@ Agregar cuenta, selec software, finalizar, puedes ver el [Video](https://www.you
 
 Seleccionar la ruta por defecto: **/usr/local/MATLAB/R2023b**
 
-> [!WARINING]
+> [!WARNING]
 > Recuerda la ruta, es indispensable para tus variables de entorno
 
 ## Ejecutar MATLAB
